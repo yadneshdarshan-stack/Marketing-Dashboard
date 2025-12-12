@@ -34,5 +34,6 @@ Campaign Consistency: Relatively stable monthly click patterns (5-7M range) indi
 Strategic Wisdom: Data-driven marketing requires balancing investment between high-performing markets and emerging opportunities while understanding demographic nuances like urban-rural divides
 
 6) Screenshot
-Dashboard: Screenshot 2025-12-12 100736.png
+Dashboard:[ Screenshot 2025-12-12 100736.png](https://github.com/yadneshdarshan-stack/Marketing-Dashboard/blob/main/Screenshot%202025-12-12%20100736.png)
+
 
